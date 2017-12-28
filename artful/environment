@@ -1,0 +1,7 @@
+### begin crouton-generated environment variables
+### end crouton-generated environment variables
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+SD=/var/host/media/removable/ChromeBook
+sd=/var/host/media/removable/ChromeBook
+JAVA_HOME=/usr/lib/jvm/java-8-oracle
+JRE_HOME=/usr/lib/jvm/java-8-oracle/jre

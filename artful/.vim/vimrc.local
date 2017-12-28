@@ -1,0 +1,29 @@
+" always show line numbers
+set number
+
+" check file type
+"filetype on
+
+" storage history record 1000
+set history=1000
+
+" auto indent(apply on next line)
+set autoindent
+
+" copy the previous indentation on autoindenting
+set copyindent
+
+" tab key is four spaces
+set tabstop=4
+
+" set show matching parenthesis
+set showmatch
+
+" always keep 4 lines off the edges of the screen when scrolling
+set scrolloff=4
+
+" highlight search terms
+set hlsearch
+
+" show search matches as you type
+set incsearch
