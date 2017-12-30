@@ -1,0 +1,48 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Project/com.netease.vopen/common/framework/http/TrustAllSSLSocketFactory.java" timestamp="1508081261682" />
+      <file name="D:/Project/KotlinSample/src/main.kt" timestamp="1508081598829">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGZ1biBzZHMoKSB7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>public fun sds() {
+    
+}</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
